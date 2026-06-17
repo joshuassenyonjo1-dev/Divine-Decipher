@@ -1,0 +1,6 @@
+{
+  "name": "Divine Decipher",
+  "description": "Local multiplayer and solo Bible word deciphering game featuring active player score tracking, elegant SVG draw-stage animations, and thousands of Bible words, biblical names, books, and scriptures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
